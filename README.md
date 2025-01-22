@@ -2,9 +2,9 @@
 This is a recommendation system built for an online streaming platform.
 
 ## Configuration
-* Java 8
+* Java 8+
 * Scala 2.11
-* Python 3.6+
+* Python 3.11+
 * TensorFlow 2.0+
 
 ## Start
