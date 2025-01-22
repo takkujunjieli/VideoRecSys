@@ -1,7 +1,7 @@
 # VideoRecSys
 This is a recommendation system built for an online streaming platform.
 
-## 环境要求
+## Configuration
 * Java 8
 * Scala 2.11
 * Python 3.6+
